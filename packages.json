@@ -1,8 +1,5 @@
 {
-    "affyio": [
-        "zlibbioc"
-    ],
-    "zlibbioc": [],
+    "affyio": [],
     "ARRmNormalization": [],
     "bridge": [],
     "CNAnorm": [],
