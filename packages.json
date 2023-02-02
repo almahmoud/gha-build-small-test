@@ -101,10 +101,7 @@
         "fftw"
     ],
     "fftw": [],
-    "magic": [
-        "abind"
-    ],
-    "abind": [],
+    "magic": [],
     "coop": [
         "memuse"
     ],
