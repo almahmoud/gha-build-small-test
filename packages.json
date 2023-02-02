@@ -47,10 +47,7 @@
         "png"
     ],
     "png": [],
-    "globals": [
-        "codetools"
-    ],
-    "codetools": [],
+    "globals": [],
     "SQUAREM": [
         "setRNG"
     ],
@@ -59,9 +56,7 @@
         "rlecuyer"
     ],
     "rlecuyer": [],
-    "R.methodsS3": [
-        "codetools"
-    ],
+    "R.methodsS3": [],
     "deldir": [
         "polyclip"
     ],
