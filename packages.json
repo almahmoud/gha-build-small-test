@@ -68,10 +68,7 @@
         "shape"
     ],
     "shape": [],
-    "optextras": [
-        "numDeriv"
-    ],
-    "numDeriv": [],
+    "optextras": [],
     "xlsxjars": [
         "rJava"
     ],
@@ -80,9 +77,7 @@
     "fftwtools": [],
     "magic": [],
     "coop": [],
-    "alabama": [
-        "numDeriv"
-    ],
+    "alabama": [],
     "linprog": [],
     "RWekajars": [
         "rJava"
@@ -96,9 +91,7 @@
     "mhsmm": [
         "mvtnorm"
     ],
-    "DoubleExpSeq": [
-        "numDeriv"
-    ],
+    "DoubleExpSeq": [],
     "matrixLaplacian": [
         "scatterplot3d"
     ],
@@ -120,9 +113,7 @@
         "rngWELL"
     ],
     "rngWELL": [],
-    "ucminf": [
-        "numDeriv"
-    ],
+    "ucminf": [],
     "scagnostics": [
         "rJava"
     ],
@@ -152,8 +143,6 @@
     "WrightMap": [
         "RColorBrewer"
     ],
-    "pso": [
-        "numDeriv"
-    ],
+    "pso": [],
     "isotone": []
 }
