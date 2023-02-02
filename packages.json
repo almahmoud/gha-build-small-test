@@ -18,13 +18,8 @@
         "SparseM"
     ],
     "SparseM": [],
-    "SLqPCR": [
-        "RColorBrewer"
-    ],
-    "RColorBrewer": [],
-    "SQUADD": [
-        "RColorBrewer"
-    ],
+    "SLqPCR": [],
+    "SQUADD": [],
     "Cairo": [],
     "globals": [],
     "SQUAREM": [
@@ -77,9 +72,7 @@
     ],
     "scatterplot3d": [],
     "elasticnet": [],
-    "rafalib": [
-        "RColorBrewer"
-    ],
+    "rafalib": [],
     "RNASeqRData": [],
     "objectProperties": [],
     "mixsmsn": [],
@@ -109,9 +102,7 @@
     "ivprobit": [],
     "scalreg": [],
     "adagio": [],
-    "WrightMap": [
-        "RColorBrewer"
-    ],
+    "WrightMap": [],
     "pso": [],
     "isotone": []
 }
