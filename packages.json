@@ -148,10 +148,7 @@
         "plotrix"
     ],
     "plotrix": [],
-    "shapefiles": [
-        "foreign"
-    ],
-    "foreign": [],
+    "shapefiles": [],
     "ivprobit": [],
     "scalreg": [],
     "adagio": [],
