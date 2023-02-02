@@ -117,10 +117,7 @@
     "rcdklibs": [
         "rJava"
     ],
-    "RMallow": [
-        "combinat"
-    ],
-    "combinat": [],
+    "RMallow": [],
     "irr": [
         "lpSolve"
     ],
