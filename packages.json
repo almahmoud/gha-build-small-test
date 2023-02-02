@@ -17,15 +17,10 @@
     "snow": [],
     "R.methodsS3": [],
     "deldir": [],
-    "gower": [
-        "tinytest"
-    ],
-    "tinytest": [],
+    "gower": [],
     "ExPosition": [],
     "stable": [],
-    "stringdist": [
-        "tinytest"
-    ],
+    "stringdist": [],
     "diagram": [],
     "optextras": [],
     "xlsxjars": [],
