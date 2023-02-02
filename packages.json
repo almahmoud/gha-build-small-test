@@ -41,10 +41,7 @@
         "tinytest"
     ],
     "tinytest": [],
-    "ExPosition": [
-        "prettyGraphs"
-    ],
-    "prettyGraphs": [],
+    "ExPosition": [],
     "stable": [
         "rmutil"
     ],
