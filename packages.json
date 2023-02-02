@@ -77,10 +77,7 @@
     "objectProperties": [],
     "mixsmsn": [],
     "lassopv": [],
-    "randtoolbox": [
-        "rngWELL"
-    ],
-    "rngWELL": [],
+    "randtoolbox": [],
     "ucminf": [],
     "scagnostics": [
         "rJava"
