@@ -110,10 +110,7 @@
     "RWekajars": [
         "rJava"
     ],
-    "longitudinal": [
-        "corpcor"
-    ],
-    "corpcor": [],
+    "longitudinal": [],
     "rcdklibs": [
         "rJava"
     ],
