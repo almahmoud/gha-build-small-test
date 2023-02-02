@@ -68,10 +68,7 @@
     "ucminf": [],
     "scagnostics": [],
     "CMLS": [],
-    "Rglpk": [
-        "slam"
-    ],
-    "slam": [],
+    "Rglpk": [],
     "bartMachineJARs": [],
     "RConics": [
         "conics"
