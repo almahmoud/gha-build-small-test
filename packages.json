@@ -51,10 +51,7 @@
     "irr": [],
     "mhsmm": [],
     "DoubleExpSeq": [],
-    "matrixLaplacian": [
-        "scatterplot3d"
-    ],
-    "scatterplot3d": [],
+    "matrixLaplacian": [],
     "elasticnet": [],
     "rafalib": [],
     "RNASeqRData": [],
