@@ -88,10 +88,7 @@
         "rJava"
     ],
     "rJava": [],
-    "GSA": [
-        "impute"
-    ],
-    "impute": [],
+    "GSA": [],
     "fftwtools": [],
     "magic": [],
     "coop": [
