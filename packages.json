@@ -110,10 +110,7 @@
         "conics"
     ],
     "conics": {},
-    "ABCanalysis": [
-        "plotrix"
-    ],
-    "plotrix": [],
+    "ABCanalysis": [],
     "shapefiles": [],
     "ivprobit": [],
     "scalreg": [],
