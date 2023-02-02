@@ -25,10 +25,7 @@
     ],
     "tinytest": [],
     "ExPosition": [],
-    "stable": [
-        "rmutil"
-    ],
-    "rmutil": [],
+    "stable": [],
     "stringdist": [
         "tinytest"
     ],
