@@ -13,10 +13,7 @@
     "LPEadj": [],
     "lpNet": [],
     "minet": [],
-    "NTW": [
-        "mvtnorm"
-    ],
-    "mvtnorm": [],
+    "NTW": [],
     "sagenhaft": [
         "SparseM"
     ],
@@ -79,9 +76,7 @@
     ],
     "RMallow": [],
     "irr": [],
-    "mhsmm": [
-        "mvtnorm"
-    ],
+    "mhsmm": [],
     "DoubleExpSeq": [],
     "matrixLaplacian": [
         "scatterplot3d"
@@ -93,9 +88,7 @@
     ],
     "RNASeqRData": [],
     "objectProperties": [],
-    "mixsmsn": [
-        "mvtnorm"
-    ],
+    "mixsmsn": [],
     "lassopv": [],
     "randtoolbox": [
         "rngWELL"
