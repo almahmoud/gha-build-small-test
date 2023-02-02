@@ -17,10 +17,7 @@
         "LPE"
     ],
     "LPE": [],
-    "lpNet": [
-        "lpSolve"
-    ],
-    "lpSolve": [],
+    "lpNet": [],
     "minet": [
         "infotheo"
     ],
@@ -92,9 +89,7 @@
     "alabama": [
         "numDeriv"
     ],
-    "linprog": [
-        "lpSolve"
-    ],
+    "linprog": [],
     "RWekajars": [
         "rJava"
     ],
@@ -103,9 +98,7 @@
         "rJava"
     ],
     "RMallow": [],
-    "irr": [
-        "lpSolve"
-    ],
+    "irr": [],
     "mhsmm": [
         "mvtnorm"
     ],
@@ -166,9 +159,7 @@
     "foreign": [],
     "ivprobit": [],
     "scalreg": [],
-    "adagio": [
-        "lpSolve"
-    ],
+    "adagio": [],
     "WrightMap": [
         "RColorBrewer"
     ],
