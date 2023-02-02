@@ -41,10 +41,7 @@
     "stringdist": [
         "tinytest"
     ],
-    "diagram": [
-        "shape"
-    ],
-    "shape": [],
+    "diagram": [],
     "optextras": [],
     "xlsxjars": [
         "rJava"
