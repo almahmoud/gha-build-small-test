@@ -91,10 +91,7 @@
     "GSA": [],
     "fftwtools": [],
     "magic": [],
-    "coop": [
-        "memuse"
-    ],
-    "memuse": [],
+    "coop": [],
     "alabama": [
         "numDeriv"
     ],
