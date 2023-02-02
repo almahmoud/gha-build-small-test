@@ -31,10 +31,7 @@
         "setRNG"
     ],
     "setRNG": [],
-    "snow": [
-        "rlecuyer"
-    ],
-    "rlecuyer": [],
+    "snow": [],
     "R.methodsS3": [],
     "deldir": [],
     "gower": [
