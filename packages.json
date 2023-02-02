@@ -98,10 +98,7 @@
         "RColorBrewer"
     ],
     "RNASeqRData": [],
-    "objectProperties": [
-        "objectSignals"
-    ],
-    "objectSignals": [],
+    "objectProperties": [],
     "mixsmsn": [
         "mvtnorm"
     ],
