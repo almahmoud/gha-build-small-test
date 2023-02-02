@@ -92,10 +92,7 @@
         "impute"
     ],
     "impute": [],
-    "fftwtools": [
-        "fftw"
-    ],
-    "fftw": [],
+    "fftwtools": [],
     "magic": [],
     "coop": [
         "memuse"
