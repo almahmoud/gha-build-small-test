@@ -119,10 +119,7 @@
         "scatterplot3d"
     ],
     "scatterplot3d": [],
-    "elasticnet": [
-        "lars"
-    ],
-    "lars": [],
+    "elasticnet": [],
     "rafalib": [
         "RColorBrewer"
     ],
@@ -136,9 +133,7 @@
     "mixsmsn": [
         "mvtnorm"
     ],
-    "lassopv": [
-        "lars"
-    ],
+    "lassopv": [],
     "randtoolbox": [
         "rngWELL"
     ],
@@ -176,9 +171,7 @@
         "Formula"
     ],
     "Formula": [],
-    "scalreg": [
-        "lars"
-    ],
+    "scalreg": [],
     "adagio": [
         "lpSolve"
     ],
