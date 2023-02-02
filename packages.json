@@ -37,10 +37,7 @@
     "SQUADD": [
         "RColorBrewer"
     ],
-    "Cairo": [
-        "png"
-    ],
-    "png": [],
+    "Cairo": [],
     "globals": [],
     "SQUAREM": [
         "setRNG"
@@ -113,9 +110,7 @@
     "rafalib": [
         "RColorBrewer"
     ],
-    "RNASeqRData": [
-        "png"
-    ],
+    "RNASeqRData": [],
     "objectProperties": [
         "objectSignals"
     ],
