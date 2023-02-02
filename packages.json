@@ -191,8 +191,5 @@
     "pso": [
         "numDeriv"
     ],
-    "isotone": [
-        "nnls"
-    ],
-    "nnls": []
+    "isotone": []
 }
