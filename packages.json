@@ -42,10 +42,7 @@
     ],
     "rlecuyer": [],
     "R.methodsS3": [],
-    "deldir": [
-        "polyclip"
-    ],
-    "polyclip": [],
+    "deldir": [],
     "gower": [
         "tinytest"
     ],
