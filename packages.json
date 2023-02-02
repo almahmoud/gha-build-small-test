@@ -15,10 +15,7 @@
     "rjson": [],
     "LPEadj": [],
     "lpNet": [],
-    "minet": [
-        "infotheo"
-    ],
-    "infotheo": [],
+    "minet": [],
     "NTW": [
         "mvtnorm"
     ],
