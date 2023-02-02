@@ -40,23 +40,16 @@
     ],
     "diagram": [],
     "optextras": [],
-    "xlsxjars": [
-        "rJava"
-    ],
-    "rJava": [],
+    "xlsxjars": [],
     "GSA": [],
     "fftwtools": [],
     "magic": [],
     "coop": [],
     "alabama": [],
     "linprog": [],
-    "RWekajars": [
-        "rJava"
-    ],
+    "RWekajars": [],
     "longitudinal": [],
-    "rcdklibs": [
-        "rJava"
-    ],
+    "rcdklibs": [],
     "RMallow": [],
     "irr": [],
     "mhsmm": [],
@@ -73,17 +66,13 @@
     "lassopv": [],
     "randtoolbox": [],
     "ucminf": [],
-    "scagnostics": [
-        "rJava"
-    ],
+    "scagnostics": [],
     "CMLS": [],
     "Rglpk": [
         "slam"
     ],
     "slam": [],
-    "bartMachineJARs": [
-        "rJava"
-    ],
+    "bartMachineJARs": [],
     "RConics": [
         "conics"
     ],
